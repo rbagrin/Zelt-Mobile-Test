@@ -4,7 +4,6 @@ Congratulations, you made it to the next step at Zelt's recruiting process! At t
 
 * Create (one or multiple, at your discretion) pull requests with your changes.
 * Write clear commit messages and keep your commit history clean.
-* We would like to see some tests (ideally using Jest).
 * It would be nice to give some attention to the UI/UX aspect.
 
 ## Brief
