@@ -9,9 +9,11 @@ Congratulations, you made it to the next step at Zelt's recruiting process! At t
 
 ## Brief
 1. Create a Mobile app where you can see the list of superheroes that you can retrieve by calling the backend API we have provided (more details below).
-2. The home page should display the list of superheroes and should provide links to each superhero's own page.
-3. You should be able also to add/delete superheroes.
+2. The home page should display the list of superheroes.
+3. You should be able also to add superheroes.
 4. All the pages that you are creating should be protected login protected (except the login page) meaning you can access those only if you are logged in.
+5. (Optional) The list of superheroes should provide links to each of the superhero's page.
+6. (Optional) Delete superhero action.
 
 ## Backend description
 ### Entities
@@ -51,13 +53,10 @@ Congratulations, you made it to the next step at Zelt's recruiting process! At t
 
 ## Requirements
 - [ ] use any Mobile Framework you are comfortable with
-- [ ] pages required: /login, /superheroes (the list of heroes), /superheroes/:id - superhero details page
+- [ ] pages required: /login, /superheroes (the list of heroes), (optional /superheroes/:id - superhero details page)
 - [ ] home page should list all the superheroes (can use a list, a table, cards or whatever you think it would look nice and would do the job)
 - [ ] on the hompage you should be able to add a new superhero
-- [ ] on the superhero page you should be able to delete that superhero
-- [ ] on each superhero page add some images of that superhero (no need to save that image in the backend, can be a static public file)
 - [ ] if not logged in - only the login page is available
-- [ ] your code should be tested
 
 ## Tips and advices
 * Feel free to design the pages you are creating as you wish. We will also appreciate the creativity, not only the code.
