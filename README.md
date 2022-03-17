@@ -71,7 +71,7 @@ From one terminal go inside the **/backend** folder and:
 * run **npm run start:dev**
 * the api is now accessible on the **port 8000**
 
-###### * the api accepts request only from **http://localhost:3000**
+###### * the api accepts request only from **http://localhost:3000** (if you want to change the port the server is expecting requests from, you'll have to search for *origin: 'http://localhost:3000',* in /backend/src/main.ts and update the port you are sending the requests from)
 
 ###### You also should let us know how we can run/test your mobile app, depending on the framework you are using.
 
