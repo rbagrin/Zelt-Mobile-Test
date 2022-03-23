@@ -73,4 +73,5 @@ From one terminal go inside the **/backend** folder and:
 
 ###### You also should let us know how we can run/test your mobile app, depending on the framework you are using.
 
+## After completing the challenge, please add some Screen Shots to the repo.
 ## Good luck!
